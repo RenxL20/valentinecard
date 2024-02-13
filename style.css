@@ -192,6 +192,18 @@ img {
     }
 
 }
+@media only screen and (max-width: 414px) {
+    .line1{
+        visibility: visible;
+    }
+    .line2{
+    visibility: visible;
+    }
+    .h1{
+        visibility: visible;
+    }
+
+}
 .valentines {
     text-align: center;
     font-size: 55px;
